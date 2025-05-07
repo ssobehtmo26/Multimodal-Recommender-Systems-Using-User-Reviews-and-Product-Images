@@ -58,19 +58,20 @@ Recommender systems have evolved from:
 
 | Metric             | Value         |
 |--------------------|---------------|
-| ✅ Accuracy         | **60%**     |
+| ✅ Accuracy         | **~61.3%**     |
 | 📊 Best Class       | 5-star ratings |
 | 🧪 Observations     | Better performance on 4-5 stars; difficult to differentiate mid-tier (3-star) |
 
 ![Screenshot 2025-05-07 140211](https://github.com/user-attachments/assets/26eb18cc-7371-4e9c-9a9f-b9aeed234a9a)
 
-![Screenshot 2025-05-07 140229](https://github.com/user-attachments/assets/e3c27e54-cc85-4509-9990-8832c56f2a6f)
+![Screenshot 2025-05-07 201654](https://github.com/user-attachments/assets/8dceedbe-a88a-4d01-900b-3f95bee05304)
 
-![Screenshot 2025-05-07 140243](https://github.com/user-attachments/assets/b1b1da02-4b1d-4b63-b5a7-54022c26fee1)
+![Screenshot 2025-05-07 201610](https://github.com/user-attachments/assets/42e01c80-95a3-4a22-b734-058a5af5ba9c)
 
-![Screenshot 2025-05-07 140249](https://github.com/user-attachments/assets/1e0d9d8a-5c79-42e5-bab7-cd73feaf1db5)
+![Screenshot 2025-05-07 201620](https://github.com/user-attachments/assets/0a4e8fd5-5687-4565-986e-90881acadce6)
 
-![Screenshot 2025-05-07 140259](https://github.com/user-attachments/assets/0a9f0ed7-5cd9-4419-afe9-cd389970f152)
+![Screenshot 2025-05-07 201632](https://github.com/user-attachments/assets/e5653a42-a2cc-420f-8a8e-d91383fa8927)
+
 ---
 
 ## 🌍 Key Learnings
